@@ -1,0 +1,41 @@
+body {
+	background-color: #fffbf0;
+	
+}
+
+.my-header {
+  	font-family: "Times New Roman", Times, serif;
+}
+
+.main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.col-md-2{
+	background-color: ;
+}
+
+.main {
+	background-color: ;
+}
+
+a {
+	color: black !important;
+	text-decoration: none!important;
+}
+
+a:hover {
+
+	text-decoration: none !important;
+}
+
+@media (max-width: 577px) {
+    .my-navbar {        
+    	text-align: center;
+    } 
+    .menu {
+    	margin-top: 0px;
+    }
+}
